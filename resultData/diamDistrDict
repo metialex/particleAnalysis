@@ -1,0 +1,31 @@
+FoamFile
+{
+	version 2.0;
+	format ascii;
+	class dictionary;
+	location "";
+	object diamDistrDict;
+}
+Div	20;
+D_max	1.99703e-05;
+D_min	2.22952e-06;
+Distr0	0.0091673;
+Distr1	0.0292844;
+Distr2	0.0697734;
+Distr3	0.149987;
+Distr4	0.243697;
+Distr5	0.339445;
+Distr6	0.444869;
+Distr7	0.539088;
+Distr8	0.624905;
+Distr9	0.701553;
+Distr10	0.766743;
+Distr11	0.818691;
+Distr12	0.866819;
+Distr13	0.902979;
+Distr14	0.933282;
+Distr15	0.954673;
+Distr16	0.97148;
+Distr17	0.984467;
+Distr18	0.99287;
+Distr19	1;
